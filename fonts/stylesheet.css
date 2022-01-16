@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Dhyana';
+    src: url('Dhyana-Regular.woff2') format('woff2'),
+        url('Dhyana-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cherry Cream Soda';
+    src: url('CherryCreamSoda.woff2') format('woff2'),
+        url('CherryCreamSoda.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
